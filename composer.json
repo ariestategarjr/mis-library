@@ -1,0 +1,17 @@
+{
+    "name": "asus/vsga-perpus",
+    "autoload": {
+        "psr-4": {
+            "Asus\\VsgaPerpus\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "AriestaTegar-JR",
+            "email": "ategarjr@gmail.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.27"
+    }
+}
